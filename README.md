@@ -2,185 +2,184 @@
 
 # Muhammad Ammar Rauf
 
-### UI/UX Designer · Graphic Designer · BSCS Student
+<img
+  src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&repeat=true&width=650&height=55&lines=UI%2FUX+Designer;Product+Designer;Graphic+Designer;BSCS+Student;Flutter+Learner"
+/>
 
-Designing clean, practical and user-friendly digital experiences.
+<p>
+  Creating clean, practical and user-friendly digital experiences.
+</p>
 
-<br>
-
-<a href="https://www.linkedin.com/in/ammar-rauf/">
-  <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-&nbsp;
-<a href="https://www.behance.net/muhammadammar116">
-  <img src="https://img.shields.io/badge/Behance-111111?style=for-the-badge&logo=behance&logoColor=white">
-</a>
-&nbsp;
-<a href="https://www.instagram.com/marthumbnails/">
-  <img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
+<p>
+  <a href="YOUR_LINKEDIN_URL">LinkedIn</a>
+  &nbsp; • &nbsp;
+  <a href="YOUR_BEHANCE_URL">Behance</a>
+  &nbsp; • &nbsp;
+  <a href="YOUR_INSTAGRAM_URL">Instagram</a>
+</p>
 
 </div>
 
 <br>
 
----
+<!-- ===================== ABOUT + PROFILE ===================== -->
 
-<table>
+<table width="100%">
 <tr>
 
-<td width="50%" valign="top">
+<td width="65%" valign="top">
 
-### ABOUT ME
+<h2>About Me</h2>
 
-I'm a BSCS student and UI/UX Designer focused on
+<p>
+I'm a <b>BSCS student and UI/UX Designer</b> focused on
 creating clean, practical and user-friendly digital
 experiences.
+</p>
 
-My work combines **design thinking, visual design
-and technical knowledge** to create interfaces and
-digital products that are simple and useful.
+<p>
+I combine <b>UI/UX design, graphic design and technical
+knowledge</b> to build interfaces and digital products
+that are simple, useful and visually clear.
+</p>
 
-Currently building my skills across:
-
-- UI/UX & Product Design
-- Graphic Design
-- Frontend Development
-- Database Systems
-- Software Development
+<p>
+Alongside design, I have worked with databases,
+object-oriented programming and application development.
+</p>
 
 </td>
 
-<td width="50%" valign="top">
+<td width="35%" align="center" valign="middle">
 
-### CURRENT FOCUS
-
-**UI/UX DESIGN**
-
-Wireframes · Prototypes · User Interfaces
+<h3>Currently</h3>
 
 <br>
 
-**GRAPHIC DESIGN**
+<b>UI/UX Design</b>
 
-YouTube Thumbnails · Logos · Brand Identity
+<br><br>
 
-<br>
+<b>Product Design</b>
 
-**DEVELOPMENT**
+<br><br>
 
-Flask · MongoDB · SQL · OOP
+<b>Graphic Design</b>
 
-<br>
+<br><br>
 
-**EDUCATION**
-
-BS Computer Science  
-KICSIT, Kahuta  
-2024 – Present
+<b>Flutter Learning</b>
 
 </td>
 
 </tr>
 </table>
 
----
+<br>
 
-<table>
+<!-- ===================== STATS ===================== -->
+
+<table width="100%">
 <tr>
 
-<td width="33%" align="center">
+<td width="25%" align="center">
 
-### UI/UX
+<h2>2022</h2>
 
-<br>
-
-**2**
-
-Internships
+<b>Freelancing</b>
 
 <br>
 
-Tezway  
-Mechaline
+<sub>Started</sub>
 
 </td>
 
-<td width="33%" align="center">
+<td width="25%" align="center">
 
-### FREELANCE
+<h2>2</h2>
 
-<br>
-
-**2022 — Present**
-
-Graphic Design
+<b>UI/UX</b>
 
 <br>
 
-Thumbnails  
-Logos  
-Brand Identity
+<sub>Internships</sub>
 
 </td>
 
-<td width="33%" align="center">
+<td width="25%" align="center">
 
-### EDUCATION
+<h2>BSCS</h2>
 
-<br>
-
-**BSCS**
-
-2024 — Present
+<b>Computer</b>
 
 <br>
 
-KICSIT, Kahuta
+<sub>Science</sub>
+
+</td>
+
+<td width="25%" align="center">
+
+<h2>3+</h2>
+
+<b>Design</b>
+
+<br>
+
+<sub>Years</sub>
 
 </td>
 
 </tr>
 </table>
 
----
+<br>
 
-## EXPERIENCE
+<!-- ===================== EXPERIENCE ===================== -->
 
-<table>
+<table width="100%">
 <tr>
 
 <td width="50%" valign="top">
 
-### UI/UX Designer Intern
+<h2>UI/UX Designer</h2>
 
-**Tezway**
+<h3>Tezway</h3>
 
-Worked on UI/UX design and focused on creating
-practical and user-friendly digital interfaces.
+<p>
+Worked on UI/UX design with a focus on creating
+practical and user-friendly interfaces for digital
+products.
+</p>
 
-<br>
+<p>
+<b>Focus</b>
+</p>
 
-**Focus**
-
-UI/UX Design · User Interfaces · Design Thinking
+<p>
+UI/UX Design · User Interface · User Experience
+</p>
 
 </td>
 
 <td width="50%" valign="top">
 
-### UI/UX Designer Intern
+<h2>UI/UX Designer</h2>
 
-**Mechaline**
+<h3>Mechaline</h3>
 
+<p>
 Worked on mobile UI/UX concepts and explored
 user-focused solutions for digital products.
+</p>
 
-<br>
+<p>
+<b>Focus</b>
+</p>
 
-**Focus**
-
+<p>
 Mobile UI/UX · Wireframing · Prototyping
+</p>
 
 </td>
 
@@ -189,300 +188,460 @@ Mobile UI/UX · Wireframing · Prototyping
 
 <br>
 
-<table>
+<!-- ===================== FREELANCE ===================== -->
+
+<table width="100%">
 <tr>
 
-<td width="100%" valign="top">
+<td align="center">
 
-### FREELANCE GRAPHIC DESIGNER
+<h2>Freelance Graphic Designer</h2>
 
-**2022 — Present**
+<h3>2022 — Present</h3>
 
-Working independently with clients on visual
-design projects.
+<p>
+Working independently on visual design projects
+for clients and personal practice.
+</p>
 
-**Work includes**
+<br>
 
-`YouTube Thumbnails` · `Logo Design` · `Brand Identity`
+<table width="90%">
+<tr>
 
-Created visual content for content creators and
-businesses while communicating directly with clients
-and managing project requirements.
+<td align="center" width="33%">
+
+<b>YouTube</b>
+
+<br>
+
+Thumbnail Design
+
+</td>
+
+<td align="center" width="33%">
+
+<b>Branding</b>
+
+<br>
+
+Logo & Identity
+
+</td>
+
+<td align="center" width="33%">
+
+<b>Visual Design</b>
+
+<br>
+
+Creative Graphics
 
 </td>
 
 </tr>
 </table>
 
----
+</td>
 
-# FEATURED PROJECTS
+</tr>
+</table>
 
-<table>
+<br>
+
+<!-- ===================== PROJECTS ===================== -->
+
+<h2 align="center">Featured Projects</h2>
+
+<br>
+
+<table width="100%">
 <tr>
 
 <td width="50%" valign="top">
 
-## Freelancer Platform
+<h2>Freelancer Platform</h2>
 
-A freelancer-focused digital platform developed
-as a university/project-based application.
+<p>
+A freelancer-focused platform developed as a
+practical software project.
+</p>
 
-### Technology
+<br>
 
-`Flask` `MongoDB`
+<b>TECHNOLOGY</b>
 
-### Focus
+<br><br>
 
-- Backend development
-- Database management
-- Freelancer platform workflow
-- Practical application development
+<img src="https://img.shields.io/badge/Flask-111111?style=flat-square&logo=flask&logoColor=white">
+
+<img src="https://img.shields.io/badge/MongoDB-111111?style=flat-square&logo=mongodb&logoColor=white">
+
+<br><br>
+
+<b>FOCUS</b>
+
+<p>
+Backend Development<br>
+Database Management<br>
+Freelancer Platform
+</p>
 
 </td>
 
 <td width="50%" valign="top">
 
-## Product Record System
+<h2>Product Record System</h2>
 
-An Object-Oriented Programming project designed
+<p>
+An Object-Oriented Programming project created
 to manage product records and related operations.
-
-### Technology
-
-`OOP` `Programming`
-
-### Focus
-
-- Object-oriented concepts
-- Product record management
-- Data handling
-- Practical software structure
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-## UI/UX Design Projects
-
-Designed interfaces, wireframes and prototypes
-for different digital products and personal
-practice projects.
-
-### Tool
-
-`Figma`
-
-</td>
-
-<td width="50%" valign="top">
-
-## Graphic Design
-
-Freelance visual design work covering:
-
-- YouTube thumbnails
-- Logo design
-- Brand identity
-- Visual communication
-
-### Tools
-
-`Photoshop` `Illustrator` `Canva`
-
-</td>
-
-</tr>
-</table>
-
----
-
-# SKILLS
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### DESIGN
-
-- UI/UX Design
-- Wireframing
-- Prototyping
-- User Interface Design
-- YouTube Thumbnail Design
-- Logo Design
-- Brand Identity
-- Visual Communication
-
-</td>
-
-<td width="50%" valign="top">
-
-### DEVELOPMENT
-
-- Object-Oriented Programming
-- SQL
-- Database Design
-- MongoDB
-- Flask
-- Data Structures
-- Assembly Language
-- Basic AI / ML Concepts
-
-</td>
-
-</tr>
-</table>
-
----
-
-# TOOLS
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=figma,ps,ai,canva,mongodb,html,css,js,git,github,vscode" />
-
-</div>
+</p>
 
 <br>
 
-<div align="center">
+<b>TECHNOLOGY</b>
 
-`Figma` · `Adobe Photoshop` · `Adobe Illustrator` · `Canva`  
-`VS Code` · `Dev C++` · `MongoDB` · `Git` · `GitHub`
+<br><br>
 
-</div>
+<img src="https://img.shields.io/badge/OOP-111111?style=flat-square">
 
----
+<img src="https://img.shields.io/badge/Programming-111111?style=flat-square">
 
-# EDUCATION
+<br><br>
 
-### Bachelor of Science in Computer Science
+<b>FOCUS</b>
 
-**KICSIT, Kahuta**  
-2024 — Present
+<p>
+Object-Oriented Programming<br>
+Product Records<br>
+Data Management
+</p>
 
-Relevant Coursework:
+</td>
 
-`Object-Oriented Programming` · `Advanced Database Systems`  
-`Artificial Intelligence` · `Computer Organization & Assembly Language`  
-`Data Structures`
+</tr>
 
----
-
-<table>
 <tr>
 
-<td width="33%" align="center">
+<td width="50%" valign="top">
 
-### UI/UX DESIGN
+<h2>UI/UX Projects</h2>
 
-Wireframes  
-Prototypes  
-Interfaces  
+<p>
+UI/UX interfaces, wireframes and prototypes
+designed for digital products and practice projects.
+</p>
+
+<br>
+
+<b>TOOL</b>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Figma-111111?style=flat-square&logo=figma&logoColor=white">
+
+</td>
+
+<td width="50%" valign="top">
+
+<h2>Graphic Design</h2>
+
+<p>
+Freelance visual design work focused on thumbnails,
+logos and brand identity.
+</p>
+
+<br>
+
+<b>TOOLS</b>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Photoshop-111111?style=flat-square&logo=adobephotoshop&logoColor=white">
+
+<img src="https://img.shields.io/badge/Illustrator-111111?style=flat-square&logo=adobeillustrator&logoColor=white">
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<!-- ===================== SKILLS ===================== -->
+
+<h2 align="center">Skills & Expertise</h2>
+
+<br>
+
+<table width="100%">
+<tr>
+
+<td width="33%" align="center" valign="top">
+
+<h3>UI / UX</h3>
+
+<br>
+
+UI Design
+
+<br><br>
+
+UX Design
+
+<br><br>
+
+Wireframing
+
+<br><br>
+
+Prototyping
+
+<br><br>
+
 Product Design
 
 </td>
 
-<td width="33%" align="center">
+<td width="33%" align="center" valign="top">
 
-### GRAPHIC DESIGN
+<h3>Graphic Design</h3>
 
-Thumbnails  
-Logos  
-Brand Identity  
-Visual Design
+<br>
+
+YouTube Thumbnails
+
+<br><br>
+
+Logo Design
+
+<br><br>
+
+Brand Identity
+
+<br><br>
+
+Visual Communication
+
+<br><br>
+
+Creative Design
 
 </td>
 
-<td width="33%" align="center">
+<td width="33%" align="center" valign="top">
 
-### DEVELOPMENT
+<h3>Development</h3>
 
-Flask  
-MongoDB  
-SQL  
+<br>
+
 OOP
 
+<br><br>
+
+SQL
+
+<br><br>
+
+MongoDB
+
+<br><br>
+
+Flask
+
+<br><br>
+
+Data Structures
+
 </td>
 
 </tr>
 </table>
 
----
+<br>
 
-## PORTFOLIO
+<!-- ===================== TOOLS ===================== -->
 
-<div align="center">
-
-### UI/UX Design
-**Clothing Brand UI/UX**
-
-### Mobile App Design
-**Mobile App Design Portfolio**
-
-### Graphic Design
-**YouTube Thumbnail Portfolio**
-
-</div>
-
----
-
-<table>
+<table width="100%">
 <tr>
 
-<td width="50%" valign="top">
+<td align="center">
 
-### LANGUAGES
+<h2>Tools I Use</h2>
 
-**Urdu**  
-Native
+<br>
 
-**English**  
-Intermediate
+<img src="https://skillicons.dev/icons?i=figma,ps,ai,canva,mongodb,html,css,js,git,github,vscode" />
 
-</td>
+<br><br>
 
-<td width="50%" valign="top">
-
-### STRENGTHS
-
-- Creative problem solving
-- Attention to detail
-- Self-learning
-- Client communication
-- Independent working
+Figma &nbsp; · &nbsp;
+Photoshop &nbsp; · &nbsp;
+Illustrator &nbsp; · &nbsp;
+Canva &nbsp; · &nbsp;
+MongoDB &nbsp; · &nbsp;
+VS Code
 
 </td>
 
 </tr>
 </table>
 
----
+<br>
+
+<!-- ===================== EDUCATION ===================== -->
+
+<table width="100%">
+<tr>
+
+<td width="65%" valign="top">
+
+<h2>Education</h2>
+
+<h3>Bachelor of Science in Computer Science</h3>
+
+KICSIT, Kahuta
+
+<br>
+
+2024 — Present
+
+</td>
+
+<td width="35%" align="center" valign="middle">
+
+<h3>Relevant Coursework</h3>
+
+OOP
+
+<br>
+
+Database Systems
+
+<br>
+
+Artificial Intelligence
+
+<br>
+
+Data Structures
+
+<br>
+
+Assembly Language
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<!-- ===================== LEARNING ===================== -->
+
+<table width="100%">
+<tr>
+
+<td align="center">
+
+<h2>Currently Learning</h2>
+
+<br>
+
+<img src="https://img.shields.io/badge/Flutter-111111?style=for-the-badge&logo=flutter&logoColor=white">
+
+<img src="https://img.shields.io/badge/Mobile%20Development-111111?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Product%20Design-111111?style=for-the-badge">
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<!-- ===================== PORTFOLIO ===================== -->
+
+<h2 align="center">My Work</h2>
+
+<br>
+
+<table width="100%">
+<tr>
+
+<td width="33%" align="center">
+
+<h3>UI/UX</h3>
+
+<br>
+
+<a href="YOUR_BEHANCE_URL">
+View Portfolio →
+</a>
+
+</td>
+
+<td width="33%" align="center">
+
+<h3>Mobile App</h3>
+
+<br>
+
+<a href="YOUR_MOBILE_PORTFOLIO_URL">
+View Portfolio →
+</a>
+
+</td>
+
+<td width="33%" align="center">
+
+<h3>Graphic Design</h3>
+
+<br>
+
+<a href="YOUR_INSTAGRAM_URL">
+View Work →
+</a>
+
+</td>
+
+</tr>
+</table>
+
+<br><br>
+
+<!-- ===================== CONTACT ===================== -->
 
 <div align="center">
 
-# LET'S WORK TOGETHER.
+# Let's work together.
 
-UI/UX · Graphic Design · Digital Products
+<p>
+UI/UX Design · Product Design · Graphic Design
+</p>
 
 <br>
 
 <a href="mailto:ammar193200@gmail.com">
+  <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 
-<img src="https://img.shields.io/badge/Let's%20Talk-111111?style=for-the-badge&logo=gmail&logoColor=white">
+<a href="https://www.linkedin.com/in/ammar-rauf/">
+  <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
+<a href="https://www.behance.net/muhammadammar116">
+  <img src="https://img.shields.io/badge/Behance-111111?style=for-the-badge&logo=behance&logoColor=white">
 </a>
 
 <br><br>
 
-**Muhammad Ammar Rauf**
+<b>Muhammad Ammar Rauf</b>
 
-BSCS Student · UI/UX Designer · Graphic Designer
+<br>
+
+<sub>UI/UX Designer · Graphic Designer · BSCS Student</sub>
 
 </div>
