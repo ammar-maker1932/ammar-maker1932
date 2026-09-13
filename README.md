@@ -2,75 +2,132 @@
 
 # Muhammad Ammar Rauf
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=true&width=650&lines=UI%2FUX+Designer;BSCS+Student;Graphic+Designer;Figma+Designer;Mobile+App+Design+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&repeat=true&width=700&lines=UI%2FUX+Designer;BSCS+Student;Graphic+Designer;Mobile+App+Design+Enthusiast" />
 
 <p>
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="YOUR_BEHANCE_URL">
-    <img src="https://img.shields.io/badge/Behance-111111?style=for-the-badge&logo=behance&logoColor=white" />
-  </a>
-  <a href="YOUR_PORTFOLIO_URL">
-    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-  <a href="mailto:ammar193200@gmail.com">
-    <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <a href="YOUR_LINKEDIN_URL">LinkedIn</a>
+  &nbsp;•&nbsp;
+  <a href="YOUR_BEHANCE_URL">Behance</a>
+  &nbsp;•&nbsp;
+  <a href="YOUR_PORTFOLIO_URL">Portfolio</a>
+  &nbsp;•&nbsp;
+  <a href="mailto:ammar193200@gmail.com">Email</a>
 </p>
 
 </div>
 
----
+<br>
+
+<!-- ABOUT -->
+
+<table width="100%">
+<tr>
+<td>
 
 ## About Me
 
-I'm a **UI/UX Designer and BSCS student** who enjoys turning design problems
-into simple, practical and user-friendly digital experiences.
+I'm a **UI/UX Designer and BSCS student** focused on creating
+clean, practical and user-friendly digital experiences.
 
-I work across **user research, wireframing, UI design and prototyping**, 
-with a strong focus on creating clean interfaces and thoughtful user flows.
+I enjoy working through a design problem from **user research
+to wireframes, UI design and interactive prototypes**.
 
-I'm also currently learning **Android app development with Android Studio**
-to take my designs from prototypes toward working applications.
+I'm also currently learning **Android app development with
+Android Studio** to turn the interfaces I design into working
+applications.
 
----
+</td>
+</tr>
+</table>
+
+<br>
+
+<!-- EXPERIENCE -->
+
+<table width="100%">
+<tr>
+<td>
 
 ## Experience
 
-### UI/UX Designer Intern — Tezway
-**2025 · 2 Months**
+</td>
+</tr>
+</table>
 
-- Redesigned an existing application based on user feedback.
+<table width="100%">
+<tr>
+
+<td width="50%" valign="top">
+
+### UI/UX Designer Intern
+**Tezway**
+
+`2025 · 2 Months`
+
+- Redesigned an existing application.
 - Conducted user research to identify usability problems.
-- Converted research findings into wireframes and clickable prototypes in Figma.
-- Designed and built the frontend for the company's website.
-- Iterated on designs through team feedback and reviews.
+- Created wireframes and clickable prototypes in Figma.
+- Designed and built the frontend for their website.
+- Iterated through team feedback.
 
-### UI/UX Designer Intern — Mechaline
-**2025 · 2 Months**
+</td>
 
-- Redesigned navigation and layouts for a mobile application.
-- Conducted short user research sessions to identify confusing areas.
-- Created wireframes, mockups and working prototypes.
-- Presented the improved user flow to the team.
+<td width="50%" valign="top">
+
+### UI/UX Designer Intern
+**Mechaline**
+
+`2025 · 2 Months`
+
+- Redesigned navigation and layouts for a mobile app.
+- Conducted short user research sessions.
+- Created wireframes, mockups and prototypes.
+- Presented the updated user flow to the team.
+- Improved confusing areas of the application.
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<table width="100%">
+<tr>
+<td>
 
 ### Freelance Graphic Designer
-**2022 — Present · Remote**
 
-- Design YouTube thumbnails for content creators with a focus on click-through potential.
-- Create logos and basic brand identities for businesses and individuals.
-- Manage client requirements, revisions and deadlines directly.
+`2022 — Present · Remote`
 
----
+Designing **YouTube thumbnails, logos and basic brand identities**
+for clients while handling requirements, revisions and deadlines
+directly.
 
-## Design Skills
+</td>
+</tr>
+</table>
 
-<table>
+<br>
+
+<!-- SKILLS -->
+
+<table width="100%">
 <tr>
-<td width="50%">
+<td>
 
-### UI/UX Design
+## Skills
+
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+
+<td width="50%" valign="top">
+
+### UI / UX
 
 - User Research
 - User Flows
@@ -79,10 +136,10 @@ to take my designs from prototypes toward working applications.
 - Prototyping
 - Mobile App Design
 - Usability
-- Design Systems
 
 </td>
-<td width="50%">
+
+<td width="50%" valign="top">
 
 ### Graphic Design
 
@@ -90,36 +147,327 @@ to take my designs from prototypes toward working applications.
 - Logo Design
 - Brand Identity
 - Visual Design
-- Social Media Graphics
-- Composition
 - Typography
 - Visual Hierarchy
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<!-- TOOLS -->
+
+<table width="100%">
+<tr>
+<td>
+
+## Tools & Technologies
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,canva,androidstudio,vscode" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+`Figma` &nbsp; `Photoshop` &nbsp; `Illustrator` &nbsp; `Canva`
+<br>
+`Android Studio` &nbsp; `VS Code`
+
+</div>
 
 </td>
 </tr>
 </table>
 
----
+<br>
 
-## Tools & Technologies
+<!-- TECHNICAL -->
 
-<p align="left">
+<table width="100%">
+<tr>
+<td>
 
-<img src="https://img.shields.io/badge/Figma-111111?style=for-the-badge&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/Photoshop-111111?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
-<img src="https://img.shields.io/badge/Illustrator-111111?style=for-the-badge&logo=adobeillustrator&logoColor=white" />
-<img src="https://img.shields.io/badge/Canva-111111?style=for-the-badge&logo=canva&logoColor=white" />
-<img src="https://img.shields.io/badge/Android_Studio-111111?style=for-the-badge&logo=androidstudio&logoColor=white" />
-<img src="https://img.shields.io/badge/VS_Code-111111?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+## Technical Knowledge
 
-</p>
+<table width="100%">
+<tr>
+<td align="center" width="25%">
 
-### Technical Skills
+**OOP**
 
-```text
-OOP
-Data Structures & Algorithms
-SQL & Database Design
-Assembly Language
-Basic AI/ML Concepts
-Android App Development
+Object Oriented  
+Programming
+
+</td>
+
+<td align="center" width="25%">
+
+**DSA**
+
+Data Structures  
+& Algorithms
+
+</td>
+
+<td align="center" width="25%">
+
+**SQL**
+
+Database  
+Design
+
+</td>
+
+<td align="center" width="25%">
+
+**AI / ML**
+
+Basic AI/ML  
+Concepts
+
+</td>
+</tr>
+</table>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<!-- PROJECTS -->
+
+<table width="100%">
+<tr>
+<td>
+
+## Projects & Portfolio
+
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+
+<td width="33%" align="center" valign="top">
+
+### UI/UX
+
+**Clothing Brand**
+
+UI/UX design project focused on creating
+a modern e-commerce experience.
+
+<br>
+
+<a href="YOUR_CLOTHING_BEHANCE_URL">
+View Project →
+</a>
+
+</td>
+
+<td width="33%" align="center" valign="top">
+
+### Mobile App
+
+**Mobile App Design**
+
+Mobile interface design with
+clear navigation and user flows.
+
+<br>
+
+<a href="YOUR_MOBILE_BEHANCE_URL">
+View Project →
+</a>
+
+</td>
+
+<td width="33%" align="center" valign="top">
+
+### Graphic Design
+
+**marartworks**
+
+YouTube thumbnail designs created
+for content creators.
+
+<br>
+
+<a href="YOUR_FRAMER_URL">
+View Portfolio →
+</a>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<!-- EDUCATION -->
+
+<table width="100%">
+<tr>
+<td>
+
+## Education
+
+<table width="100%">
+<tr>
+
+<td width="33%" valign="top">
+
+### BSCS
+
+**KICSIT, Kahuta**
+
+`2024 — Present`
+
+4th Semester
+
+</td>
+
+<td width="33%" valign="top">
+
+### Intermediate
+
+**KRL Model College**
+
+`2022 — 2024`
+
+ICS
+
+</td>
+
+<td width="33%" valign="top">
+
+### Matriculation
+
+**KRL Model College**
+
+`2019 — 2022`
+
+</td>
+
+</tr>
+</table>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<!-- CURRENTLY LEARNING -->
+
+<table width="100%">
+<tr>
+<td>
+
+## Currently Learning
+
+<table width="100%">
+<tr>
+
+<td align="center">Android App Development</td>
+<td align="center">Mobile UI</td>
+<td align="center">Figma</td>
+<td align="center">UX Design</td>
+
+</tr>
+</table>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<!-- GITHUB -->
+
+<table width="100%">
+<tr>
+<td>
+
+## GitHub Statistics
+
+<div align="center">
+
+<img height="165"
+src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&theme=dark&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" />
+
+<img height="165"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=dark&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF" />
+
+</div>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<!-- CONTRIBUTIONS -->
+
+<table width="100%">
+<tr>
+<td>
+
+## Contribution Activity
+
+<div align="center">
+
+<img width="95%"
+src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0D1117&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&hide_border=true" />
+
+</div>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<!-- CONTACT -->
+
+<table width="100%">
+<tr>
+<td align="center">
+
+## Let's Connect
+
+**UI/UX Design · Mobile Apps · Digital Products**
+
+<br>
+
+<a href="mailto:ammar193200@gmail.com">
+ammar193200@gmail.com
+</a>
+
+<br><br>
+
+Rawalpindi, Pakistan
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=111111" />
+
+<br><br>
+
+**Thanks for visiting my profile.**
+
+</div>
